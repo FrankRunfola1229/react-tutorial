@@ -13,7 +13,7 @@
     "react-tutorial": "file:",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://github.com/FrankRunfola1229/react-tutorial",
+  "homepage": ".",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
