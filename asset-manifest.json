@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FrankRunfola1229/react-tutorial/static/css/main.e26c96e6.css",
+    "main.js": "/FrankRunfola1229/react-tutorial/static/js/main.3b15f6f6.js",
+    "index.html": "/FrankRunfola1229/react-tutorial/index.html",
+    "main.e26c96e6.css.map": "/FrankRunfola1229/react-tutorial/static/css/main.e26c96e6.css.map",
+    "main.3b15f6f6.js.map": "/FrankRunfola1229/react-tutorial/static/js/main.3b15f6f6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e26c96e6.css",
+    "static/js/main.3b15f6f6.js"
+  ]
+}
